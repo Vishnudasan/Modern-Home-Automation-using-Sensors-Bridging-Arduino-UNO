@@ -24,3 +24,8 @@ Breadboard and Wires
 **How It Works**
 
 The "Modern Home Automation using Tinkercad" project automates various household tasks using an Arduino Uno microcontroller and a set of sensors. The system features an ultrasonic sensor for proximity detection, automatically turning lights on or off when someone enters or leaves a room. A DHT11 temperature and humidity sensor monitors the indoor environment and controls devices like fans or heaters to maintain comfortable conditions. The PIR motion sensor enhances security by detecting movement and triggering alarms or lights. LEDs represent household lights, controlled via a relay module connected to the Arduino, which can be replaced by actual relays in a real-world scenario. The microcontroller reads inputs from the sensors and executes predefined automation rules, such as adjusting lighting based on presence, regulating climate for comfort, and activating security measures. The system's behavior can be observed and modified using the Tinkercad simulation, where users can test different automation rules or add new features to suit specific needs, providing a versatile and energy-efficient solution for modern home automation.
+
+**Circuit Diagram**
+
+![Screenshot 2024-09-05 214054](https://github.com/user-attachments/assets/6928d23c-c5e7-48f3-b5a0-37881ea01154)
+
