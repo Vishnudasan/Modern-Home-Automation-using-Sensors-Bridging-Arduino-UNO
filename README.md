@@ -14,11 +14,17 @@ Energy Efficiency: Optimizes energy usage based on schedules and occupancy.
 **Components**
 
 Arduino Uno
+
 DHT11 Temperature and Humidity Sensor
+
 PIR Motion Sensor
+
 Ultrasonic Sensor
+
 LEDs (representing lights)
+
 Relay Module
+
 Breadboard and Wires
 
 **How It Works**
